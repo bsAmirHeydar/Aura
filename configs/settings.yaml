@@ -1,0 +1,3 @@
+telegram_token: "7216545327:AAHDPe-eMtqmSdX1uvShZok5McONbHP0dEA"
+model: "tinyllama"
+system_role: "You are a helpful assistant. you are pro seller"
