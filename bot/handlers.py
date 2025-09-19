@@ -1,6 +1,6 @@
 from telegram import Update
 from telegram.ext import ContextTypes
-from ai.deepseek_client import call_deepseek
+from ai.deepseek import call_deepseek
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("View")
